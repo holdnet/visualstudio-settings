@@ -9,8 +9,8 @@ Use the *JetBrains Mono Medium* font, size 9.
 ### Other themes
 ---
 
-**Nordic Theme**
+**Nordic Theme**  
 [https://github.com/dst80/nordic](https://github.com/dst80/nordic)
 
-**Monokai**
+**Monokai**  
 [https://marketplace.visualstudio.com/items?itemName=pid011.MonokaiVS](https://marketplace.visualstudio.com/items?itemName=pid011.MonokaiVS)

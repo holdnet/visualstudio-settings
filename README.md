@@ -1,0 +1,2 @@
+# visualstudio-settings
+Themes, Settings

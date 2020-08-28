@@ -2,12 +2,16 @@
 
 To install any of the themes, you will need to install the [Color Themes](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio) extension. Then simply import the .vstheme file.
 
-### Font
 ---
+### Font
+
 Use the *JetBrains Mono Medium* font, size 9.
 
-### Other themes
 ---
+### Other themes
 
-**Nordic Theme**
+**Nordic Theme**  
 [https://github.com/dst80/nordic](https://github.com/dst80/nordic)
+
+**Monokai**  
+[https://marketplace.visualstudio.com/items?itemName=pid011.MonokaiVS](https://marketplace.visualstudio.com/items?itemName=pid011.MonokaiVS)
